@@ -1,3 +1,7 @@
 test_kensyou02
 
+<<<<<<< HEAD
 kesyou comment update
+=======
+kensyou02 update
+>>>>>>> kensyou02
