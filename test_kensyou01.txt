@@ -1,4 +1,8 @@
 test_kensyou01.txt
 
+<<<<<<< HEAD
 
 test update 01
+=======
+test update01
+>>>>>>> kensyou
