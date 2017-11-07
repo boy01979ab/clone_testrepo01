@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 20170901 edit
 
 20170901 edit02
 develop edit
+=======
+20170901 edit
+>>>>>>> e3343f2... Revert "別ブランチへ編集したファイルをpush"
